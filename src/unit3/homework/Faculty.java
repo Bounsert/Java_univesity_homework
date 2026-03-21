@@ -3,7 +3,7 @@ package unit3.homework;
 public class Faculty {
     private long id;
     private String name;
-    private int availableSpots; // Кількість бюджетних/доступних місць
+    private int availableSpots;
 
     public Faculty() {
     }

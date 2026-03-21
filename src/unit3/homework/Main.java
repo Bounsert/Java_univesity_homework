@@ -7,7 +7,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-        // 1. Створюємо факультет (наприклад, 2 доступних місця)
+        // 1. Створюємо факультет
         Faculty csFaculty = new Faculty(1L, "Комп'ютерні науки", 2);
 
         // 2. Створюємо адміністратора
@@ -41,7 +41,7 @@ public class Main {
         // 5. Адміністратор створює відомість
         Statement statement = new Statement(1L, new Date(), admin, csFaculty, applicants);
 
-        // 6. Система підраховує бали та визначає зарахованих (сортує і розподіляє 2 місця)
+        // 6. Система підраховує бали та визначає зарахованих
         statement.processAdmission();
 
         // 7. Виводимо результат
