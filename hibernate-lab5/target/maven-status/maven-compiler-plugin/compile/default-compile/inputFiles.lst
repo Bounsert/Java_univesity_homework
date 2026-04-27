@@ -1,4 +1,7 @@
 D:\work\universery_homework\JAVA\PR_2\hibernate-lab5\src\main\java\com\mobileoperator\dao\ClientDao.java
+D:\work\universery_homework\JAVA\PR_2\hibernate-lab5\src\main\java\com\mobileoperator\dao\ClientDaoHqlImpl.java
+D:\work\universery_homework\JAVA\PR_2\hibernate-lab5\src\main\java\com\mobileoperator\dao\ClientDaoInterface.java
+D:\work\universery_homework\JAVA\PR_2\hibernate-lab5\src\main\java\com\mobileoperator\dao\ClientDaoSqlImpl.java
 D:\work\universery_homework\JAVA\PR_2\hibernate-lab5\src\main\java\com\mobileoperator\dao\HibernateUtil.java
 D:\work\universery_homework\JAVA\PR_2\hibernate-lab5\src\main\java\com\mobileoperator\entity\AdditionalService.java
 D:\work\universery_homework\JAVA\PR_2\hibernate-lab5\src\main\java\com\mobileoperator\entity\Client.java

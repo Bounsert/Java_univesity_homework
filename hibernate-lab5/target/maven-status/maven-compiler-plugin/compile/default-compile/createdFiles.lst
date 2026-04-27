@@ -1,6 +1,9 @@
 com\mobileoperator\entity\Client.class
 com\mobileoperator\entity\Tariff.class
+com\mobileoperator\dao\ClientDaoSqlImpl.class
 com\mobileoperator\entity\ClientDetail.class
 com\mobileoperator\dao\HibernateUtil.class
+com\mobileoperator\dao\ClientDaoHqlImpl.class
 com\mobileoperator\entity\AdditionalService.class
 com\mobileoperator\dao\ClientDao.class
+com\mobileoperator\dao\ClientDaoInterface.class
