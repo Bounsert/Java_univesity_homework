@@ -1,0 +1,6 @@
+com\mobileoperator\entity\Client.class
+com\mobileoperator\entity\Tariff.class
+com\mobileoperator\entity\ClientDetail.class
+com\mobileoperator\dao\HibernateUtil.class
+com\mobileoperator\entity\AdditionalService.class
+com\mobileoperator\dao\ClientDao.class
